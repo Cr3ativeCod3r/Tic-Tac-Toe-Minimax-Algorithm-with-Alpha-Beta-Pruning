@@ -11,7 +11,7 @@ The Minimax algorithm is a popular decision-making algorithm used in artificial 
 ### Minimax Algorithm
 - **Objective**: To find the best move for a player (Maximizing player).
 - **Method**: It recursively simulates all possible moves of both players (the maximizing player and the minimizing opponent), then makes a decision based on the best achievable outcome from these simulations.
-- **Depth**: The depth of the recursion is limited to optimize performance. Deeper recursion allows for more foresight but requires more computation.
+- **Depth**: Deeper recursion allows for more foresight but requires more computation. You can set it between about 0-6  but in such a simple game like tictactoe you don't need to change this because game tree is relatively  very small oposit to for exmaple chess.
 
 ### Alpha-Beta Pruning
 - **Purpose**: To reduce the number of nodes evaluated in the Minimax algorithm.
