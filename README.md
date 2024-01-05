@@ -30,6 +30,4 @@ The code consists of several key functions:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Po utworzeniu tej dokumentacji, możesz umieścić ją w pliku README.md w swoim repozytorium GitHub. Pamiętaj, aby dostosować sekcje takie jak "Usage" do swojego konkretnego kodu i dodać wszelkie dodatkowe informacje, które mogą być przydatne dla użytkowników Twojego algorytmu.
