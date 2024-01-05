@@ -27,7 +27,5 @@ The code consists of several key functions:
 
 
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 
