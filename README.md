@@ -5,6 +5,12 @@
 
 ## Overview
 This repository contains an implementation of the Minimax algorithm with Alpha-Beta pruning optimized for the Tic-Tac-Toe game in JavaScript. The algorithm is designed to calculate the best possible move for a player, making it suitable for creating challenging computer opponents in the game.
+The most popular games taht use min-max algorithm as a pc opponent:
+- Chess
+- Poker
+- Checkers
+- Tic-Tac-Toe
+- And much more...
 
 ## How It Works
 The Minimax algorithm is a popular decision-making algorithm used in artificial intelligence applications, especially in turn-based games like Tic-Tac-Toe. The algorithm simulates all possible moves in the game to determine the best move for a given player.
